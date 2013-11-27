@@ -1,0 +1,3 @@
+platform :ios
+
+pod 'PBFlatUI', '~> 1.1.0'
